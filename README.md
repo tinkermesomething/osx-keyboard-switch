@@ -1,4 +1,4 @@
-# mac-keyboard-switch
+# OSX-keyboard-switch
 
 Automatically switches macOS keyboard input layout when a non-Apple USB keyboard is connected or disconnected.
 
